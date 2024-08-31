@@ -1,0 +1,17 @@
+[
+    {
+        "Image": "bi-window",
+        "Title": "Fully Responsive",
+        "Description": "This theme will look great on any device, no matter the size!"
+    },
+    {
+        "Image": "bi-layers",
+        "Title": "Bootstrap 5 Ready",
+        "Description": "Featuring the latest build of the new Bootstrap 5 framework!"
+    },
+    {
+        "Image": "bi-terminal",
+        "Title": "Easy to Use",
+        "Description": "Ready to use with your own content, or customize the source files!"
+    }
+]
