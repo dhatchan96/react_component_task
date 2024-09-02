@@ -13,7 +13,7 @@
     },
     {
         "Index":2,
-        "Image": "/public/img/bg-showcase-3.jpg",
+        "Image": "/dist/img/bg-showcase-3.jpg",
         "Title": "Easy to Use & Customize",
         "Description": "Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!"
     }
