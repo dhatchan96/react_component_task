@@ -1,17 +1,17 @@
 [
     {
-        "Image" : "/src/assets/img/testimonials-1.jpg",
+        "Image" : "/public/img/testimonials-1.jpg",
         "title" : "Margaret E.",
         "description" : "This is fantastic! Thanks so much guys!"
 
     },
     {
-        "Image" : "/src/assets/img/testimonials-2.jpg",
+        "Image" : "/public/img/testimonials-2.jpg",
         "title" : "Fred S.",
         "description" : "I'm so happy with the theme! Will be using it again in my next project."
     },
     {
-        "Image" : "/src/assets/img/testimonials-3.jpg",
+        "Image" : "/public/img/testimonials-3.jpg",
         "title" : "Sarah W.",
         "description" : "Thanks so much for making these free resources available to us!"
     }
