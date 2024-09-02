@@ -1,8 +1,19 @@
-# React + Vite
+# React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React implementation of the [Landing Page](https://startbootstrap.com/previews/landing-page) by Start Bootstrap, using reusable components.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone the repo**:
+    ```bash
+    git clone https://github.com/dhatchan96/react_component_task.git
+    cd react-landing-page
+    ```
+2. **Install dependencies**:
+    ```bash
+    npm install
+    ```
+3. **Start the development server**:
+    ```bash
+    npm start
+    ```
