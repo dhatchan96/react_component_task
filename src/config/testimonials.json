@@ -6,12 +6,12 @@
 
     },
     {
-        "Image" : "/public/img/testimonials-2.jpg",
+        "Image" : "/img/testimonials-2.jpg",
         "title" : "Fred S.",
         "description" : "I'm so happy with the theme! Will be using it again in my next project."
     },
     {
-        "Image" : "/public/img/testimonials-3.jpg",
+        "Image" : "/img/testimonials-3.jpg",
         "title" : "Sarah W.",
         "description" : "Thanks so much for making these free resources available to us!"
     }
