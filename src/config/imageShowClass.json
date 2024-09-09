@@ -1,6 +1,6 @@
 [
     {
-        "Image": "/assets/bg-showcase-1.jpg",
+        "Image": "/src/assets/img/bg-showcase-1.jpg",
         "Index":0,
         "Title": "Fully Responsive Design",
         "Description": "When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it's a phone, tablet, or desktop the page will behave responsively!"
